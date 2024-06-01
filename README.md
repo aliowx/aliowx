@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend from Iran</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/bGgsc5mWoryfgKBx1u">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliowx&label=Profile%20views&color=0e75b6&style=flat" alt="aliowx" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=aliowx&label=Profile%20views&color=0e75b6&style=flat](https://raw.githubusercontent.com/anproghub/anproghub/master/gif.gif)" alt="aliowx" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliowx/](https://github.com/aliowx/)
 
